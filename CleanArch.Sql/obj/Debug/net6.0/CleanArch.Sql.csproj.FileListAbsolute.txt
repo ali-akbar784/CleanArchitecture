@@ -1,0 +1,24 @@
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Sql\bin\Debug\net6.0\CleanArch.Sql.deps.json
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Sql\bin\Debug\net6.0\CleanArch.Sql.dll
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Sql\bin\Debug\net6.0\CleanArch.Sql.pdb
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Sql\obj\Debug\net6.0\CleanArch.Sql.csproj.AssemblyReference.cache
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Sql\obj\Debug\net6.0\CleanArch.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Sql\obj\Debug\net6.0\CleanArch.Sql.AssemblyInfoInputs.cache
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Sql\obj\Debug\net6.0\CleanArch.Sql.AssemblyInfo.cs
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Sql\obj\Debug\net6.0\CleanArch.Sql.csproj.CoreCompileInputs.cache
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Sql\obj\Debug\net6.0\CleanArch.Sql.dll
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Sql\obj\Debug\net6.0\refint\CleanArch.Sql.dll
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Sql\obj\Debug\net6.0\CleanArch.Sql.pdb
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Sql\obj\Debug\net6.0\ref\CleanArch.Sql.dll
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Sql\bin\Debug\net6.0\CleanArch.Sql.deps.json
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Sql\bin\Debug\net6.0\CleanArch.Sql.dll
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Sql\bin\Debug\net6.0\CleanArch.Sql.pdb
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Sql\obj\Debug\net6.0\CleanArch.Sql.csproj.AssemblyReference.cache
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Sql\obj\Debug\net6.0\CleanArch.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Sql\obj\Debug\net6.0\CleanArch.Sql.AssemblyInfoInputs.cache
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Sql\obj\Debug\net6.0\CleanArch.Sql.AssemblyInfo.cs
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Sql\obj\Debug\net6.0\CleanArch.Sql.csproj.CoreCompileInputs.cache
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Sql\obj\Debug\net6.0\CleanArch.Sql.dll
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Sql\obj\Debug\net6.0\refint\CleanArch.Sql.dll
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Sql\obj\Debug\net6.0\CleanArch.Sql.pdb
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Sql\obj\Debug\net6.0\ref\CleanArch.Sql.dll

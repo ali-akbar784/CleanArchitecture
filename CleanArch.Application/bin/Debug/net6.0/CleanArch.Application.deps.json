@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CleanArch.Application/1.0.0": {
+        "dependencies": {
+          "CleanArch.Core": "1.0.0"
+        },
+        "runtime": {
+          "CleanArch.Application.dll": {}
+        }
+      },
+      "CleanArch.Core/1.0.0": {
+        "runtime": {
+          "CleanArch.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArch.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+﻿USE [NowDb]
+GO
+
+/****** Object:  Table [dbo].[UserBalance] ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[UserBalance](
+	[UserBalanceId] [int] IDENTITY(1,1) NOT NULL,
+	[UserId] [int] NOT NULL,
+	[Balance] [Decimal] NULL 
+ CONSTRAINT [PK_UserBalance] PRIMARY KEY CLUSTERED 
+(
+	[UserBalanceId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO

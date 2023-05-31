@@ -1,0 +1,38 @@
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Infrastructure.deps.json
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Infrastructure.dll
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Infrastructure.pdb
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Application.dll
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Core.dll
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Sql.dll
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Application.pdb
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Core.pdb
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Sql.pdb
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.AssemblyInfo.cs
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.csproj.CopyComplete
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.dll
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\obj\Debug\net6.0\refint\CleanArch.Infrastructure.dll
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.pdb
+C:\Users\ali.r\Downloads\CleanArch-master\CleanArch-master\CleanArch.Infrastructure\obj\Debug\net6.0\ref\CleanArch.Infrastructure.dll
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Infrastructure.deps.json
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Infrastructure.dll
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Infrastructure.pdb
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Application.dll
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Core.dll
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Sql.dll
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Application.pdb
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Core.pdb
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Sql.pdb
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.AssemblyInfo.cs
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.csproj.CopyComplete
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.dll
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\obj\Debug\net6.0\refint\CleanArch.Infrastructure.dll
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.pdb
+C:\Users\ali.r\Downloads\CleanArch-master - Copy\CleanArch\CleanArch.Infrastructure\obj\Debug\net6.0\ref\CleanArch.Infrastructure.dll
