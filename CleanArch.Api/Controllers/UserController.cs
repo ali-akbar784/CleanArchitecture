@@ -15,7 +15,7 @@ using System.Text;
 namespace CleanArch.Api.Controllers
 {
     [Route("[controller]")]
-    public class UserController : ControllerBase //BaseApiController
+    public class UserController : ControllerBase //BaseApiController ctestsa
     {
         private readonly IUnitOfWork _unitOfWork;
         private readonly IOptions<AppSettings> _appSettings;
@@ -29,9 +29,10 @@ namespace CleanArch.Api.Controllers
             _appSettings = appSettings;
         }
 
+
         // Post:
         /// <summary>
-        /// Signup api it is geting the data from client side and send it to server side. 
+        /// Signup api it is geting the data from client side and send it to server side. test commit
         /// </summary>
         /// <param name="model"></param>
         /// <returns></returns>
