@@ -29,9 +29,10 @@ namespace CleanArch.Api.Controllers
             _appSettings = appSettings;
         }
 
+
         // Post:
         /// <summary>
-        /// Signup api it is geting the data from client side and send it to server side. 
+        /// Signup api it is geting the data from client side and send it to server side. test commit
         /// </summary>
         /// <param name="model"></param>
         /// <returns></returns>
