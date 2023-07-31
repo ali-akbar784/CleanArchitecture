@@ -15,7 +15,7 @@ using System.Text;
 namespace CleanArch.Api.Controllers
 {
     [Route("[controller]")]
-    public class UserController : ControllerBase //BaseApiController
+    public class UserController : ControllerBase //BaseApiController Test commit
     {
         private readonly IUnitOfWork _unitOfWork;
         private readonly IOptions<AppSettings> _appSettings;
