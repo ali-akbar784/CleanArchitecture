@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H/zEnb2C4wNRjyi+N1fiUJVw6wrCwsNJrePDRyPxEJacNpAsdjtMt0Ed8TmZ8QbLl+aW5BcnIRes+OBBPGc1Cg==",
+  "dgSpecHash": "lUExqI8pYlvHJYrMFcjjYKqd3U1BcAZqrEqcYOZT/aG3U2msAm9ti9vgM1oMkvf0isOUuVM6Aru7X8pSqXWvnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ali.r\\Downloads\\CleanArch-master - Copy\\CleanArch\\CleanArch.Core\\CleanArch.Core.csproj",
+  "projectFilePath": "D:\\personalFolder\\CleanArchitecture\\CleanArch.Core\\CleanArch.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
