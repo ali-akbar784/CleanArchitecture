@@ -48,3 +48,5 @@ namespace CleanArch.Api
         }
     }
 }
+
+// Add new comments to check the branch rules
